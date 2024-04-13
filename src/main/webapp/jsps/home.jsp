@@ -14,7 +14,7 @@
     We offer training for Devops with Linux, kubernetes and cloud, equiting IT Engineers for best performance. 
      Landmark Technologies, the pride of Africa.
 	Class26 will run from April 13, 2021.
- Please invite all your contacts and friends for this life changing course
+ Please invite all your contacts and friends for this life changing course.
 	The shout of the King Jesus is in our midst. HE IS OUR SUCCESS ACCESS KEY</h2>
 <hr>
 <div style="text-align: center;">
