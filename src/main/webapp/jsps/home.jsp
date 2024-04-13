@@ -10,8 +10,9 @@
 </head>
 <body>
 <h1 align="center">Welcome to Landmark Technologies.</h1>
-<h2 align="center"> We are supporting the Ebay Black Friday Project.
-	Landmark Technologies is a software development company. 
+<h2 align="center"> We are raising billionares IT professionals accross the nations of the world.
+    We offer training for Devops with Linux, kubernetes and cloud, equiting IT Engineers for best performance. 
+     Landmark Technologies, the pride of Africa.
 	Class26 will run from October 14, 2021.
 	The shout of the King Jesus is in our midst. HE IS OUR SUCCESS ACCESS KEY</h2>
 <hr>
